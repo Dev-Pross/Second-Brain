@@ -2,8 +2,8 @@
  
 
 :root {
-  background-image: url("/123.png");
   /* background-color: rgb(140, 32, 32); */
+  background-image: url("/123.png");
   background-repeat: no-repeat;
   background-size: cover;
   /* background-size: cover; */

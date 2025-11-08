@@ -6,9 +6,11 @@ export default function Home() {
     //     <input className="placeholder-gray-150  bg-transparent focus:outline-none  text-white p-4 " type="text" placeholder="Enter you name " />
     //   </div>
     // </div>
-    <div className=" flex min-h-screen max-w-full ">
-      Hello world 
+    <div className="min-h-screen flex items-center">
+      <div className="">
+        <label htmlFor="name"> Name</label>
+        <input type="text" />
+      </div>
     </div>
-    
   );
 }
